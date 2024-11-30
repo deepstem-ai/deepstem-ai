@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
-- 🎓 I hold a Ph.D. in Computer Engineering.
+- 🎓 I study in Bangkok, Thailand.
 - 💼 I’m currently working as a researcher at DeepStem and AI Institute.
 - 🌱 I’m passionate about [mention interests like AI, Robotics, Web Development, etc.].
 
