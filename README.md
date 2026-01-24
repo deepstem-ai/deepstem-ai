@@ -5,11 +5,11 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 🌟 About Me
 - 🎓 I study in Bangkok, Thailand.
 - 💼 I’m currently working as a researcher at DeepStem and AI Institute.
-- 🌱 I’m passionate about [AI, STEM, ML, DL, Robotics, Web Development, Blockchain, etc.].
+- 🌱 I’m passionate about [AI, STEM, ML, DL, Robotics, Web Development, etc.].
 
 ## 🛠️ Technologies & Tools
 - **Languages:** [Python, JavaScript, HTML/CSS/JS, Java, C++, etc.]
-- **Frameworks:** [React, Node.js, SwiftUI, etc.]
+- **Frameworks:** [Node.js, etc.]
 - **Tools:** [Git, Docker, etc.]
 - **Platforms:** [Raspberry Pi, Nvidia Jetson, etc.]
 
@@ -54,7 +54,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ### 🔧 Nvidia Technologies  
 
 - **Nvidia Jetson Platforms**:  
-   - Proficiency with **Jetson Nano**, **Jetson Xavier**, and **Jetson Orin Nano** for AI and IoT projects.  
+   - Proficiency with **Jetson Nano**, **Jetson Orin Nano** for AI and IoT projects.  
    - Built AI-powered applications with optimized performance for edge devices.
 
 - **DeepStream SDK**:  
@@ -65,9 +65,6 @@ Welcome to my GitHub profile! Here's a little about me:
    - Wrote **CUDA kernels** to accelerate deep learning and parallel processing tasks.  
    - Leveraged GPU power for simulations and heavy computational workflows.
 
-- **Nvidia Omniverse**:  
-   - Exploring **Omniverse** for collaborative 3D workflows, connecting tools like Unreal Engine and Blender.  
-   - Focus on creating detailed simulations and visualizations.
 
 ---
 
