@@ -1,67 +1,55 @@
-# 👋 Hi there,!
+# 👋 Hi there!
 
-Welcome to my GitHub profile! Here's a little about me:
+### 🎓 Student & Innovator | Based in Bangkok, Thailand 🇹🇭
 
-## 🌟 About Me
-- 🎓 I study in Bangkok, Thailand.
-- 🌱 I’m passionate about [AI, STEM, ML, DL, Robotics, Web Development, etc.].
-
-## 🛠️ Technologies & Tools
-- **Languages:** [Python, JavaScript, HTML/CSS/JS, C++, etc.]
-- **Frameworks:** [Node.js, etc.]
-- **Platforms:** [Raspberry Pi, Nvidia Jetson, etc.]
+I am a passionate developer exploring the intersection of **Artificial Intelligence** and **Real-world Applications**. My focus lies in leveraging **Edge AI**, **Robotics**, and **Biomedical Engineering** to create impactful solutions that support people.
 
 ---
 
-### 📚 **Currently Learning**
+## 🛠️ Tech Stack
 
-- Exploring advanced concepts in **Deep Learning** and **Edge AI**.
-- Experimenting with **Nvidia Jetson Orin Nano** and **3D computer vision**.
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+**AI & Edge Platforms**
+![Nvidia](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### 🎮 Game Engines: Unity & Unreal  
-
-- **Unity Engine**:  
-   - Cross-platform game development with a focus on 3D games interactive simulations.  
-   - Expertise in **C# scripting** and utilizing Unity's extensive asset store for rapid development.  
-   - Built projects that prioritize performance and user experience.
-
----
-
-### 🤖 Nvidia AI & Edge AI  
-
-- **Nvidia AI**:  
-   - Developed intelligent systems using **TensorRT** and pre-trained models.  
-   - Applications include **computer vision**, **NLP**, and autonomous systems for real-world problems.
-
-- **Edge AI**:  
-   - Experience in deploying AI models on **Nvidia Jetson platforms** for real-time applications.  
-   - Focus on low-latency systems, including:
-     - **Stress detection in classrooms**.
-     - **Medical gesture recognition**.
-     - **People counting and tracking**.
+**Game Engines**
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 ---
 
-### 🔧 Nvidia Technologies  
+## 🔭 Focus Areas
 
-- **Nvidia Jetson Platforms**:  
-   - Proficiency with **Jetson Nano**, **Jetson Orin Nano** for AI and IoT projects.  
-   - Built AI-powered applications with optimized performance for edge devices.
+### 🤖 Nvidia AI & Edge Computing
+I specialize in deploying high-performance AI on embedded systems, specifically the **Nvidia Jetson Orin Nano**.
+* **DeepStream SDK:** Building scalable real-time video analytics pipelines.
+* **TensorRT:** Optimizing pre-trained models for low-latency inference.
+* **Key Projects:**
+    * *Stress Detection in Classrooms* 🧠
+    * *Medical Gesture Recognition* 🏥
+    * *People Counting & Tracking* 👥
 
-- **DeepStream SDK**:  
-   - Developed scalable video analytics solutions for sectors like healthcare and retail.  
-   - Expertise in real-time video processing and object detection pipelines.
+### 🎮 Interactive Simulations
+Bridging the gap between AI and simulation using **Unity** and **Unreal Engine**.
+* Developing cross-platform 3D simulations.
+* Utilizing **C# scripting** for complex logic and performance optimization.
+* Integrating Nvidia technologies into interactive environments.
 
 ---
 
-### 📚 Ongoing Exploration  
+## 🚀 Current Mission
 
-- Advancing skills in **AI Edge Computing** and **Deep Learning**.  
-- Building interactive simulations using **Unity**  combined with **Nvidia Technologies**.  
-- Experimenting with **Nvidia DeepStream** for real-time AI applications.
+I am currently advancing my skills in **Deep Learning** and **3D Computer Vision**, with a specific goal to apply these technologies in **Biomedical Engineering**. I believe in building technology that directly improves human health and quality of life.
 
 ---
 
-Thank you for visiting my profile! Feel free to check out my repositories and drop a ⭐️ if you find something useful!
+<div align="center">
+  <p>Thanks for visiting! Check out my repositories and drop a ⭐️ if you find something useful.</p>
+</div>
