@@ -4,13 +4,11 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌟 About Me
 - 🎓 I study in Bangkok, Thailand.
-- 💼 I’m currently working as a researcher at DeepStem and AI Institute.
 - 🌱 I’m passionate about [AI, STEM, ML, DL, Robotics, Web Development, etc.].
 
 ## 🛠️ Technologies & Tools
-- **Languages:** [Python, JavaScript, HTML/CSS/JS, Java, C++, etc.]
+- **Languages:** [Python, JavaScript, HTML/CSS/JS, C++, etc.]
 - **Frameworks:** [Node.js, etc.]
-- **Tools:** [Git, Docker, etc.]
 - **Platforms:** [Raspberry Pi, Nvidia Jetson, etc.]
 
 ---
@@ -25,21 +23,16 @@ Welcome to my GitHub profile! Here's a little about me:
 ### 🎮 Game Engines: Unity & Unreal  
 
 - **Unity Engine**:  
-   - Cross-platform game development with a focus on **2D/3D games**, **VR/AR**, and interactive simulations.  
+   - Cross-platform game development with a focus on 3D games interactive simulations.  
    - Expertise in **C# scripting** and utilizing Unity's extensive asset store for rapid development.  
    - Built projects that prioritize performance and user experience.
-
-- **Unreal Engine**:  
-   - Advanced game development using **C++ programming** and **Blueprint Visual Scripting**.  
-   - Skilled in **real-time ray tracing** and photorealistic rendering for immersive experiences.  
-   - Experience in creating high-fidelity games and simulations with cutting-edge graphics.
 
 ---
 
 ### 🤖 Nvidia AI & Edge AI  
 
 - **Nvidia AI**:  
-   - Developed intelligent systems using **TensorRT**, **TAO Toolkit**, and pre-trained models.  
+   - Developed intelligent systems using **TensorRT** and pre-trained models.  
    - Applications include **computer vision**, **NLP**, and autonomous systems for real-world problems.
 
 - **Edge AI**:  
@@ -61,17 +54,12 @@ Welcome to my GitHub profile! Here's a little about me:
    - Developed scalable video analytics solutions for sectors like healthcare and retail.  
    - Expertise in real-time video processing and object detection pipelines.
 
-- **CUDA Programming**:  
-   - Wrote **CUDA kernels** to accelerate deep learning and parallel processing tasks.  
-   - Leveraged GPU power for simulations and heavy computational workflows.
-
-
 ---
 
 ### 📚 Ongoing Exploration  
 
 - Advancing skills in **AI Edge Computing** and **Deep Learning**.  
-- Building interactive simulations using **Unity** and **Unreal Engine** combined with **Nvidia Technologies**.  
+- Building interactive simulations using **Unity**  combined with **Nvidia Technologies**.  
 - Experimenting with **Nvidia DeepStream** for real-time AI applications.
 
 ---
