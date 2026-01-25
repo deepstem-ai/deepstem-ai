@@ -1,11 +1,11 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Matthew.
 
 ### 🔬 Multidisciplinary Researcher & Developer
 #### 📍 Bangkok, Thailand 🇹🇭
 
 **"Synthesizing Biology with Silicon."**
 
-I am a student researcher standing at the convergence of **Computer Engineering** and **Life Sciences**. My work is driven by a singular mission: to engineer intelligent systems that can perceive, analyze, and assist the human body.
+I am a student researcher standing at the convergence of **Medical Science** **Computer Engineering** and **Life Sciences**. My work is driven by a singular mission: to engineer intelligent systems that can perceive, analyze, and assist the human body.
 
 By leveraging **Edge AI** and **Robotics**, I aim to decentralize healthcare, transforming massive medical equipment into accessible, portable, and intelligent solutions.
 
@@ -31,7 +31,6 @@ My academic and technical pursuits are built upon four distinct but interconnect
 **The Bridge.** This is where I translate code into physical, life-saving utility.
 * **Non-Invasive Diagnostics:** Creating tools that can diagnose conditions using computer vision rather than invasive procedures (e.g., analyzing gait or facial micro-expressions).
 * **Assistive Technology:** Designing interfaces that accommodate human limitations, such as gesture controls for sterile environments or accessible tools for the disabled.
-* **Simulation & Modeling:** Using **Unity/Unreal Engine** to create "Digital Twins" of biological systems for safe testing and simulation.
 
 ### 4. 🩺 Medical Science
 **The Domain.** My ultimate goal is clinical efficacy.
