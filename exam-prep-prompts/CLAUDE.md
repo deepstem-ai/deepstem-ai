@@ -49,7 +49,7 @@ Prices are NOT decided. Build a waitlist/price-test page first; payment later.
 Topics are selectable for learning and testing. Two levels: domain -> skill. Every question must carry domain + skill + difficulty tag.
 - Math: Algebra; Advanced Math; Problem-Solving and Data Analysis; Geometry and Trigonometry.
 - Reading & Writing: Information and Ideas; Craft and Structure; Standard English Conventions; Expression of Ideas.
-Skill lists live in `content/taxonomy.json` (we create it; owner reviews).
+Skill lists live in `content/taxonomy/taxonomy.json` (we create it; owner reviews).
 
 ## 6. Content rules (question bank)
 Every question record: id, subject (math|english), domain, skill, difficulty_est (1–4), stem, passage?, choices[4] or numeric answer, correct, explanation_th (why correct), distractor_notes_th (why each wrong option is wrong), source ('ai-original'), status, created_at, verified_by.
