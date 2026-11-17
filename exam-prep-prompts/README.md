@@ -15,6 +15,8 @@
 
 | File | Contents |
 | :--- | :--- |
+| [CLAUDE.md](CLAUDE.md) | Project rules and architecture — copy into the new project's root |
+| [PROMPTS.md](PROMPTS.md) | All prompts in one file (original) |
 | [stage-0-project-setup.md](stage-0-project-setup.md) | Stage 0 — Project setup |
 | [stage-1-site-shell.md](stage-1-site-shell.md) | Stage 1 — Site shell, theme, blog, legal pages |
 | [stage-2-database-pipeline.md](stage-2-database-pipeline.md) | Stage 2 — Database and question pipeline (offline, no UI yet) |
@@ -22,5 +24,3 @@
 | [stage-4-accounts-adaptive.md](stage-4-accounts-adaptive.md) | Stage 4 — Accounts, topic picker, adaptive practice, review |
 | [after-stage-4.md](after-stage-4.md) | Roadmap after Stage 4 (do NOT start yet) |
 | [helper-prompts.md](helper-prompts.md) | Review, when stuck, weekly content batch |
-
-> `CLAUDE.md` is referenced by every prompt but is not included in this folder yet — add it here when ready.
